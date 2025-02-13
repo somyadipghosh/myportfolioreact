@@ -1,0 +1,34 @@
+[
+    {
+      "role": "Full stack web developer",
+      "organisation": "Team codeARC",
+      "startDate": "Apr, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on ATTRIShield", "Made RecyCraft Chatbot Website", "Worked on RecyCraft Object detection website" , "Worked on Library Management System", "Worked on dynamic background color changing website"],
+      "imageSrc": "history/codearc.png"
+    },
+    {
+      "role": "Full stack web developer and Team Leader & Founder",
+      "organisation": "Team Byte Gurus",
+      "startDate": "Sep, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on Smart Classroom Management Software (SIH 2024)"],
+      "imageSrc": "history/bytegurus.png"
+    },
+    {
+      "role": "Back end web developer",
+      "organisation": "Digidenone",
+      "startDate": "Jul, 2024",
+      "endDate": "Present",
+      "experiences": ["Worked on CMS", "Helped create UI components"],
+      "imageSrc": "history/digidenone.png"
+    },
+    {
+      "role": "Project Mentor",
+      "organisation": "GirlScript Summer of Code",
+      "startDate": "Oct, 2024",
+      "endDate": "Nov, 2024",
+      "experiences": ["Mentoring contributors under a project"],
+      "imageSrc": "history/gssoc.jpg"
+    }
+  ]

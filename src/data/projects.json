@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Library Management System",
+      "imageSrc": "projects/librarymanagement.png",
+      "description": "We can add books on the database, issue and return the book.",
+      "skills": ["HTML", "CSS", "PHP", "MySQL", "JavaScript"],
+      "demo": "https://somyadipghosh.is-a.dev/login.php",
+      "source": "https://github.com/somyadipghosh/library_management"
+    },
+    {
+      "title": "Dynamic Background Color-Changing Website",
+      "imageSrc": "projects/colorchange.png",
+      "description": "Developed an website that allows users to change the background color of the page.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://colourchange.vercel.app/",
+      "source": "https://github.com/somyadipghosh/colourchange"
+    },
+    {
+      "title": "Simple react + vite web page",
+      "imageSrc": "projects/reactproject.png",
+      "description": "This is a project made to learn React with vite and Tailwind CSS.",
+      "skills": ["React", "Vite", "Tailwind CSS"],
+      "demo": "https://reactseries.vercel.app/",
+      "source": "https://www.github.com"
+    }
+  ]
