@@ -18,7 +18,7 @@ const App = () => {
       <Projects />
       <Contact />
 
-      <a href="#"><img src={getImageUrl("otherimgs/uparrow.png")} alt="" className={styles.UpArrow}/></a>
+      <a href="#"><img src={getImageUrl("otherimgs/uparrow.png")} alt="uparrow" className={styles.UpArrow}/></a>
     </div>
   )
 }
