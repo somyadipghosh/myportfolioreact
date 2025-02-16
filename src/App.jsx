@@ -6,6 +6,7 @@ import { About } from './components/About/About'
 import { Experience } from './components/Experience/Experience'
 import { Projects } from './components/Projects/Projects'
 import { Contact } from './components/Contact/Contact'
+import { getImageUrl } from './utils'
 
 const App = () => {
   return (
@@ -16,6 +17,8 @@ const App = () => {
       <Experience />
       <Projects />
       <Contact />
+
+      <a href="#"><img src={getImageUrl("otherimgs/uparrow.png")} alt="" className={styles.UpArrow}/></a>
     </div>
   )
 }

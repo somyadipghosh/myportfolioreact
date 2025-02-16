@@ -6,3 +6,11 @@
     height: 100%; 
     overflow: hidden; 
 }
+
+.UpArrow {
+    position: fixed;
+    right: 0;
+    top: 90%;
+    width: 50px;
+    margin-right: 20px;
+}
