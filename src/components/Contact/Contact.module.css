@@ -61,4 +61,7 @@
   .links {
     align-items: center;
   }
+  .link{
+    display: none;
+  }
 }
